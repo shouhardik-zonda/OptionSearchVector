@@ -2,6 +2,7 @@
 prod_dump/
 .myenv/
 envision-nlp/
+__pycache__/
 
 
 # Ignore the files
