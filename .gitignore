@@ -4,9 +4,9 @@ prod_dump/
 envision-nlp/
 
 
-# Ignore the map.py file
+# Ignore the files
+.DS_Store
 map.py
-
 state_heatmap.html
 state_heatmap.png
 state_values.csv
