@@ -1,0 +1,111 @@
+[
+  {
+    "query_id": "hq_001",
+    "query_text": "Della Terra Quartz Concrete Grey Honed",
+    "relevance_labels": {
+      "687e87f4d1cf87f3596a3936": 3,
+      "687e87f4d1cf87f3596ac51a": 3,
+      "687e87f5d1cf87f3596ae049": 2,
+      "687e87f5d1cf87f3596ae0a3": 2
+    }
+  },
+  {
+    "query_id": "hq_002",
+    "query_text": "Maybe a brand name having Daltile and style as White",
+    "relevance_labels": {
+        "687e87f4d1cf87f3596a3936": 3,
+        "687e54350918c144289bcbb0": 2,
+        "687e54350918c144289be148": 2,
+        "687e87f5d1cf87f3596ae07e": 2,
+        "687e87f5d1cf87f3596ae0a3": 2
+    }
+  },
+  {
+    "query_id": "hq_003",
+    "query_text": "The floor can be wood, and the brand can be Portico",
+    "relevance_labels": {
+      "687e87fbd1cf87f3596ebc29": 3,
+      "687e87fbd1cf87f3596ebc08": 3,
+      "687e87fbd1cf87f3596ebc4a": 3,
+      "687e87fbd1cf87f3596ebc2b": 3,
+      "687e87fbd1cf87f3596ebc4c": 3
+    }
+  },
+  {
+    "query_id": "hq_004",
+    "query_text": "PIETRA ITALIA having brown color and product name as ariZona tile",
+    "relevance_labels": {
+      "687e87f8d1cf87f3596d283b": 3,
+      "687e87fbd1cf87f3596ebd41": 3,
+      "687e87fbd1cf87f3596ebf1d": 3,
+      "687e87f8d1cf87f3596d2835": 3,
+      "687e87fbd1cf87f3596ebd3b": 3
+        }
+  },
+  {
+    "query_id": "hq_005",
+    "query_text": "I want something like Daltile and Gray  2 x 10",
+    "relevance_labels": {
+      "687e87f8d1cf87f3596d28f5": 3,
+      "687e87fbd1cf87f3596ebdfb": 3,
+      "687e87fbd1cf87f3596ec1b3": 3,
+      "687e87fbd1cf87f3596ebfd7": 3,
+      "687e87f7d1cf87f3596c9612": 3
+    }
+  },
+  {
+    "query_id": "hq_006",
+    "query_text": "Oatmeal oak & modern appeal with white cabinets",
+    "relevance_labels": {
+      "687e87f8d1cf87f3596d2e84": 3,
+      "687e87fbd1cf87f3596ebc38": 3,
+      "687e87fbd1cf87f3596ebc59": 3,
+      "687e87f7d1cf87f3596c3ad8": 3,
+      "687e87f7d1cf87f3596c3b21": 3
+    }
+  },
+  {
+    "query_id": "hq_007",
+    "query_text": "Name can be Vintahe and Wood Floor",
+    "relevance_labels": {
+      "687e87f8d1cf87f3596d2413": 2,
+      "687e87f8d1cf87f3596d2416": 2,
+      "687e87f8d1cf87f3596d2337": 2,
+      "687e87f8d1cf87f3596d243b": 2,
+      "687e87fad1cf87f3596e3739": 2
+    }
+  },
+  {
+    "query_id": "hq_008",
+    "query_text": "Glazed Ceramic marazzi",
+    "relevance_labels": {
+      "687e87f4d1cf87f3596a67e7": 3,
+      "687e87f4d1cf87f3596a687f": 3,
+      "687e87f4d1cf87f3596a6978": 3,
+      "687e87f4d1cf87f3596a6ab7": 3,
+      "687e87f4d1cf87f3596a6bf6": 3
+    }
+  },
+  {
+    "query_id": "hq_009",
+    "query_text": "Brellin laminate cabinet doors",
+    "relevance_labels": {
+      "687e87f4d1cf87f3596a3a36": 3,
+      "687e87f5d1cf87f3596b610d": 3,
+      "687e87f6d1cf87f3596bbd75": 3,
+      "687e87f8d1cf87f3596d44a6": 3,
+      "687e87f8d1cf87f3596d44e6": 3
+    }
+  },
+  {
+    "query_id": "hq_010",
+    "query_text": "Oak Stack Quartz",
+    "relevance_labels": {
+      "687e87f7d1cf87f3596c5d51": 2,
+      "687e87f7d1cf87f3596c5d53": 2,
+      "687e87f4d1cf87f3596a4aaf": 2,
+      "687e87f4d1cf87f3596a4ab9": 2,
+      "687e87f4d1cf87f3596a4ac3": 2
+    }
+  }
+]

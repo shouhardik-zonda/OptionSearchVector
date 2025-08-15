@@ -1,0 +1,17 @@
+# Ignore the prod_dump folder
+prod_dump/
+.myenv/
+envision-nlp/
+
+
+# Ignore the map.py file
+map.py
+
+state_heatmap.html
+state_heatmap.png
+state_values.csv
+evaluation_results.json
+getDocuments.py
+optionProducts.metadata.json
+prelude.json
+
